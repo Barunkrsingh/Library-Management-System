@@ -1,0 +1,3 @@
+Library Management System with QR code Attendance and Auto Generate Library Card in PHP
+<br>
+This simple project is a Library Management System with QR code Attendance and Auto Generate Library Card. This is a web-based application project developed in PHP and MySQL Database. This project was mainly developed for Universities or Colleges to manage the library books, students/faculties visits, students/faculties visits, and any related features. This can help the school library management to track the attendances of the students, borrow/return transactions of books, and generate some reports. The application has a pleasant user interface and multiple user-friendly features and functionalities.
